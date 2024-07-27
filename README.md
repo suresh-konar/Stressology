@@ -1,14 +1,19 @@
 # Stressology
 
-# Objective of the Study
+**Objective of the Study**
 
 - To examine the association between demographic factors and stress.
 - To identify the most common factors that causes stress at workplace.
 - To identify the ill-effects of stress on job performance.
 - To summarize the findings of the study and recommend some valuable suggestions to the company.
 
+**Methods Implimented**
+- Chi-Square
+- Pareto Analysis
+- Factor Analysis
+- Logistic Regression
 
-# Conclusion
+**Conclusion**
  
 - The following socio-demographic factors age, job position, working hours, travelling hours and dependent members are significant to stress i.e. they are likely to cause stress.  
 - According to survey, out of the four factors Employment condition is likely to cause stress.
